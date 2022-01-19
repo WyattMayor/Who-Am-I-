@@ -1,5 +1,5 @@
 ### Hi there 👋, My name is Wyatt
-#### I am a junior at Monmouth College majoring in Computer Science.
+#### I am currently a junior at Monmouth College majoring in Computer Science.
 
 Skills: C / C++ / Python / HTML, CSS, Java / SQL
 
