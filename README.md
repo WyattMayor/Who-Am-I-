@@ -3,7 +3,7 @@
 
 Skills: C / C++ / Python / HTML, CSS, Java / SQL
 
-- 🔭 I’m currently working on Battle Code (MIT 2022) and personal website. 
+- 🔭 I’m currently working on python pandas project and my personal website. 
 - 🌱 I’m currently learning Python and HTML/CSS/Java. 
 - 👯 I’m looking to collaborate on simulations and large programming projects. 
 - 🤔 I’m looking for help with nothing at the moment. 
