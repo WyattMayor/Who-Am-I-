@@ -1,10 +1,10 @@
 ### Hi there 👋, My name is Wyatt
-#### I am currently a junior at Monmouth College majoring in Computer Science.
+#### I am currently a senior at Monmouth College majoring in Computer Science.
 
 Skills: C / C++ / Python / HTML, CSS, Java / SQL
 
-- 🔭 I’m currently working on python pandas project and my personal website. 
-- 🌱 I’m currently learning Python and HTML/CSS/Java. 
+- 🔭 I’m currently working on creating a QA Machine Learning Model. 
+- 🌱 I’m currently learning Python and C. 
 - 👯 I’m looking to collaborate on simulations and large programming projects. 
 - 🤔 I’m looking for help with nothing at the moment. 
 - 💬 Ask me about anything :D 
