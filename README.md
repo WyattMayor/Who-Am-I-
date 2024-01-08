@@ -2,7 +2,9 @@
 #### I am currently a graduate student at University of Illinois Urbana Champaign working towards a Masters of Computer Science in Computer Science (MCS).
 
 Skills: C / C++ / Python / HTML, CSS, JavaScript / SQL / Java
+
 ML specific: Pytorch (Main), Tensorflow, SkLearn, gensim, pandas, numpy
+
 Experience with: Object Detection/Segmentation, Generation, Natural Language, Classificiation. 
 
 - 🔭 I’m currently working on my Masters. 
