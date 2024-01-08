@@ -5,7 +5,7 @@ Skills: C / C++ / Python / HTML, CSS, JavaScript / SQL / Java
 
 ML specific: Pytorch (Main), Tensorflow, SkLearn, gensim, pandas, numpy
 
-Experience with: Object Detection/Segmentation, Generation, Natural Language, Classificiation. 
+Experience with: Object Detection/Segmentation, Generation, Natural Language, Classification. 
 
 - 🔭 I’m currently working on my Masters. 
 - 🌱 I’m currently expanding my knowledge in the computer vision discipline. 
